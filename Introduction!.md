@@ -1,0 +1,4 @@
+I've never needed to make documentation before  and I don't exactly know what to put here. Almost everything you could need to change is in the settings... I don't think anything will break easily because I haven't put in anything overly complicated yet but I also know next to nothing about canvasses, which the character sheets are currently set up under.  Good luck! ^-^ 
+
+There are templates that will fill out automatically for new notes created under certain folders. You can adjust the templates under the maintenance folder. 
+You can link files together for whatever reason by going ``[[this is the name of what i would link]]`` [[Introduction!]] <- Like that. 
